@@ -4,8 +4,12 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faLocationDot } from '@fortawesome/free-solid-svg-icons'
 import "./SideProfie.css";
 import rafi from "../../image/rafi.jpg";
+import { useState } from "react";
+
 const SideProfile = () => {
-   
+ 
+  const [sec, setSec] = useState(0)
+console.log(sec)
   return (
     <div className="flexProfile">
       <div>
@@ -40,20 +44,21 @@ const SideProfile = () => {
 {/* Add A Break */}
 <h5>Add A Break</h5>
 <div className="sec">
-        <div>
-         10s
+        <div >
+         
+         <button onClick={()=>{setSec(10)}} >10s</button>
         </div>
         <div>
-          20s
+        <button onClick={()=>{setSec(20)}}>20s</button>
         </div>
         <div>
-          30s
+        <button onClick={()=>{setSec(30)}}>30s</button>
         </div>
         <div>
-          40s
+        <button onClick={()=>{setSec(40)}}>40s</button>
         </div>
         <div>
-          50s
+        <button onClick={()=>{setSec(50)}}>50s</button>
         </div>
        
       </div>
@@ -74,7 +79,7 @@ const SideProfile = () => {
          <span>Break Time</span>
         </div>
         <div>
-          20s
+         {sec}s
         </div>
         
       </div>
