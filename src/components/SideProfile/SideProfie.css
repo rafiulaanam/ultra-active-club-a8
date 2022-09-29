@@ -1,5 +1,8 @@
 .flexProfile{
-   text-align: center;
+   /* text-align: center; */
+   
+   position: sticky;
+   top: 0;
 }
 .img{
     width: 30px;
@@ -14,8 +17,16 @@
     display: flex;
     align-items: center;
 }
-.profile h5{
+.profile h5, .sy{
     margin-left: 10px;
+}
+ .sy{
+    margin-left: 15px;
+}
+.pro-center{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
 }
 
 .info, .sec, .details{
@@ -29,13 +40,36 @@
     width: 210px;
     margin-top: 20px;
 }
+.info span{
+    font-weight: bold;
+    font-size: 20px;
+}
 
 .sec, .details{
     height: 50px;
+}
+.sec div{
+    background-color: white;
+    border-radius: 50%;
+    padding: 5px;
+}
+.sec div:hover{
+    background-color: purple;
+    color: white;
 }
 .details{
     padding-left: 10px;
     padding-right: 10px;
     justify-content: space-between;
     
+}
+
+h5{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.activity-btn{
+    margin-top: 20px;
+    margin-left: 40px;
 }

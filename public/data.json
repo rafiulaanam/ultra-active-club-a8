@@ -1,7 +1,7 @@
 [
     {
         "id": 101110,
-        "img" : "https://images.unsplash.com/photo-1664421159639-73f90e7c784c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80",
+        "img" : "https://images.unsplash.com/photo-1541600383005-565c949cf777?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "name":"Squat",
         "discription":"To achieve the best results, use a heavy weight, with fewer reps to increase strength and muscle mass, or use lighter weights (or simply your body weight) with explosive plyometric movements to develop your power and speed. ",
         "time" : 30,
@@ -100,18 +100,6 @@
         "img" : "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "name":"GARBAGE BALL",
         "discription":"Use whatever you have that can be thrown and not hurt anyon Balls, wads of paper, sock balls, rubber chickens, koosh balls, etc.Have two equal teams with a center line. ",
-        "time" : 30,
-        "age" : {
-            "young": "12 to 18",
-            "elder": "20 to 25",
-            "older" :"30 to 45"
-        }
-    },
-    {
-        "id": 101119,
-        "img" : "https://images.unsplash.com/photo-1484665754804-74b091211472?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "name":"OCTOPUS",
-        "discription":"Play as with dodge ball (or gaga ball), but instead of sitting out to the side players sit down where they are tagged by the ball.  From their sitting position, the octopus (tagged kids) help with tagging any players who get close enough to be touched. ",
         "time" : 30,
         "age" : {
             "young": "12 to 18",

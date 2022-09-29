@@ -12,13 +12,18 @@ const Exercises = () => {
     .then(data=>setExercises(data))
    },[])
    
+   const addToList = ()=>{
+    // const timeMin = time +time;
+    console.log('time')
+}
+
     return (
         <div className='exercise'>
             
             {
                 
                 exercises.map(exercise=> 
-                <EachExercise key={exercise.id} exercise ={exercise}></EachExercise>
+                <EachExercise key={exercise.id} exercise ={exercise} addToList={addToList}></EachExercise>
                 )
 
             }

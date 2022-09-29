@@ -1,30 +1,38 @@
 import React from "react";
+import Button from 'react-bootstrap/Button';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {faLocationDot } from '@fortawesome/free-solid-svg-icons'
 import "./SideProfie.css";
 import rafi from "../../image/rafi.jpg";
 const SideProfile = () => {
+   
   return (
     <div className="flexProfile">
       <div>
+      <div className="pro-center">
       <div className="profile">
         <div className="img">
           <img src={rafi} alt="" />
         </div>
-        <h5>Rafiul Anam</h5>
+       <div> <h5>Rafiul Anam</h5>
+        <span className="sy"><FontAwesomeIcon icon={faLocationDot} />  Sylhet, Bangladesh</span>
+        </div>
+      </div>
       </div>
 
 
 {/* info */}
       <div className="info">
         <div>
-          75kg
+        <span>75</span>kg
           <p>Weight</p>
         </div>
         <div>
-          6.5
+         <span> 6.5</span>
           <p>Height</p>
         </div>
         <div>
-          25yrs
+          <span>25</span>yrs
           <p>Age</p>
         </div>
       </div>
@@ -47,9 +55,7 @@ const SideProfile = () => {
         <div>
           50s
         </div>
-        <div>
-          60s
-        </div>
+       
       </div>
 
 {/* Exercise Details */}
@@ -73,9 +79,9 @@ const SideProfile = () => {
         
       </div>
 
+<Button className='activity-btn' variant="success">Activity Completed</Button>
 
 
-<button>Activity Completed</button>
 
 
 
