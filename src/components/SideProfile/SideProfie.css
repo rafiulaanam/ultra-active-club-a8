@@ -1,0 +1,41 @@
+.flexProfile{
+   text-align: center;
+}
+.img{
+    width: 30px;
+
+}
+
+.img img{
+    width: 100%;
+    border-radius: 50px;
+}
+.profile{
+    display: flex;
+    align-items: center;
+}
+.profile h5{
+    margin-left: 10px;
+}
+
+.info, .sec, .details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 210px;
+    margin-top: 20px;
+}
+
+.sec, .details{
+    height: 50px;
+}
+.details{
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: space-between;
+    
+}

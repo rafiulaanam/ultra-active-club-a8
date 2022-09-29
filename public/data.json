@@ -1,0 +1,124 @@
+[
+    {
+        "id": 101110,
+        "img" : "https://images.unsplash.com/photo-1664421159639-73f90e7c784c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80",
+        "name":"Squat",
+        "discription":"To achieve the best results, use a heavy weight, with fewer reps to increase strength and muscle mass, or use lighter weights (or simply your body weight) with explosive plyometric movements to develop your power and speed. ",
+        "time" : 30,
+        "age" : {
+            "young": "12 to 18",
+            "elder": "20 to 25",
+            "older" :"30 to 45"
+        }
+    },
+    {
+        "id": 101111,
+        "img" : "https://images.unsplash.com/photo-1578762560042-46ad127c95ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Box Jump",
+        "discription":"This is a plyometric movement (i.e. a quick, movement that starts with a muscle engthening action, immediately followed by a muscle shortening one) that will help develop strength and power in your legs, specifically the hamstrings, glutes and quads. ",
+        "time" : 30,
+        "age" : {
+            "young": "12 to 18",
+            "elder": "20 to 25",
+            "older" :"30 to 45"
+        }
+    },
+    {
+        "id": 101112,
+        "img" : "https://images.unsplash.com/photo-1589955791915-526198ae4ee9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Plank",
+        "discription":" This is a fantastic exercise for your core that can be done in loads of different ways, depending on what you want to achieve. You can also perform a plank at both high and low intensity levels.",
+        "time" : 30,
+        "age" : {
+            "young": "12 to 18",
+            "elder": "20 to 25",
+            "older" :"30 to 45"
+        }
+    },
+    {
+        "id": 101113,
+        "img" : "https://images.unsplash.com/photo-1596357395104-ba989e72b5ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "name":"Bench Press",
+        "discription":"An exercise that’s key for building upper body strength. To perform this exercise properly, you’ll need to use an Olympic bar or dumbbells for better muscle recruitment. ",
+        "time" : 30,
+        "age" : {
+            "young": "12 to 18",
+            "elder": "20 to 25",
+            "older" :"30 to 45"
+        }
+    },
+    {
+        "id": 101114,
+        "img" : "https://images.unsplash.com/photo-1578763363228-6e8428de69b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Treadmill Interval Sprints",
+        "discription":"Playing a game for 90 minutes requires you to have great endurance combined with the ability to put in short bursts of maximum effort. Try a TABATA-style 20 second sprint combined with 10 second recovery and repeat several times to get the full benefit. ",
+        "time" : 30,
+        "age" : {
+            "young": "12 to 18",
+            "elder": "20 to 25",
+            "older" :"30 to 45"
+        }
+    },
+    {
+        "id": 101115,
+        "img" : "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80",
+        "name":"Bosu Squats",
+        "discription":" The unstable surface will help develop core strength, balance and strengthen the ankle stabilisers, which can help prevent common ankle injuries that footballers suffer from. Try them on just one leg at a time for a real challenge.",
+        "time" : 30,
+        "age" : {
+            "young": "12 to 18",
+            "elder": "20 to 25",
+            "older" :"30 to 45"
+        }
+    },
+    {
+        "id": 101116,
+        "img" : "https://images.unsplash.com/photo-1521804906057-1df8fdb718b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"Foam Roller",
+        "discription":"Using a foam roller both before and after exercise helps massage away knots and tightness in your muscles, which in turn helps prevent injuries and de-stresses the body so it can work more efficiently. It also increases flexibility, all aiding in the much-needed recovery and maintenance process to ensure peak performance throughout a long season. ",
+        "time" : 30,
+        "age" : {
+            "young": "12 to 18",
+            "elder": "20 to 25",
+            "older" :"30 to 45"
+        }
+    },
+    {
+        "id": 101117,
+        "img" : "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"THE BLOB TAG",
+        "discription":"Designate boundaries. Depending on the size of the play group, one or more children are the Blob. ",
+        "time" : 30,
+        "age" : {
+            "young": "12 to 18",
+            "elder": "20 to 25",
+            "older" :"30 to 45"
+        }
+    },
+    {
+        "id": 101118,
+        "img" : "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"GARBAGE BALL",
+        "discription":"Use whatever you have that can be thrown and not hurt anyon Balls, wads of paper, sock balls, rubber chickens, koosh balls, etc.Have two equal teams with a center line. ",
+        "time" : 30,
+        "age" : {
+            "young": "12 to 18",
+            "elder": "20 to 25",
+            "older" :"30 to 45"
+        }
+    },
+    {
+        "id": 101119,
+        "img" : "https://images.unsplash.com/photo-1484665754804-74b091211472?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name":"OCTOPUS",
+        "discription":"Play as with dodge ball (or gaga ball), but instead of sitting out to the side players sit down where they are tagged by the ball.  From their sitting position, the octopus (tagged kids) help with tagging any players who get close enough to be touched. ",
+        "time" : 30,
+        "age" : {
+            "young": "12 to 18",
+            "elder": "20 to 25",
+            "older" :"30 to 45"
+        }
+    }
+
+    
+]
