@@ -16,7 +16,7 @@
         "img" : "https://images.unsplash.com/photo-1578762560042-46ad127c95ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "name":"Box Jump",
         "discription":"This is a plyometric movement (i.e. a quick, movement that starts with a muscle engthening action, immediately followed by a muscle. ",
-        "time" : 30,
+        "time" : 20,
         "age" : {
             "young": "12 to 18",
             "elder": "20 to 25",
@@ -28,7 +28,7 @@
         "img" : "https://images.unsplash.com/photo-1589955791915-526198ae4ee9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "name":"Plank",
         "discription":" This is a fantastic exercise for your core that can be done in loads of different ways, depending on what you want to achieve.",
-        "time" : 30,
+        "time" : 35,
         "age" : {
             "young": "12 to 18",
             "elder": "20 to 25",
@@ -40,7 +40,7 @@
         "img" : "https://images.unsplash.com/photo-1596357395104-ba989e72b5ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
         "name":"Bench Press",
         "discription":"An exercise that’s key for building upper body strength. To perform this exercise properly, you’ll need to use an Olympic bar. ",
-        "time" : 30,
+        "time" : 25,
         "age" : {
             "young": "12 to 18",
             "elder": "20 to 25",
@@ -52,7 +52,7 @@
         "img" : "https://images.unsplash.com/photo-1578763363228-6e8428de69b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "name":"Treadmill Interval Sprints",
         "discription":"Playing a game for 90 minutes requires you to have great endurance combined with the ability to put. ",
-        "time" : 30,
+        "time" : 40,
         "age" : {
             "young": "12 to 18",
             "elder": "20 to 25",
@@ -64,7 +64,7 @@
         "img" : "https://images.unsplash.com/photo-1558611848-73f7eb4001a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
         "name":"Bosu Squats",
         "discription":" The unstable surface will help develop core strength, balance and strengthen the ankle stabilisers helps massage away knots.",
-        "time" : 30,
+        "time" : 45,
         "age" : {
             "young": "12 to 18",
             "elder": "20 to 25",
@@ -76,7 +76,7 @@
         "img" : "https://images.unsplash.com/photo-1521804906057-1df8fdb718b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "name":"Foam Roller",
         "discription":"Using a foam roller both before and after exercise helps massage away knots and tightness in your muscles, which in turn helps. ",
-        "time" : 30,
+        "time" : 35,
         "age" : {
             "young": "12 to 18",
             "elder": "20 to 25",
@@ -88,7 +88,7 @@
         "img" : "https://images.unsplash.com/photo-1607962837359-5e7e89f86776?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "name":"THE BLOB TAG",
         "discription":"Designate boundaries. Depending on the size of the play group, one or more children are the Blob thrown and not hurt anyon Balls. ",
-        "time" : 30,
+        "time" : 15,
         "age" : {
             "young": "12 to 18",
             "elder": "20 to 25",
@@ -100,7 +100,7 @@
         "img" : "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "name":"GARBAGE BALL",
         "discription":"Use whatever you have that can be thrown and not hurt anyon Balls, wads of paper, sock balls, rubber chickens, koosh balls, etc. ",
-        "time" : 30,
+        "time" : 10,
         "age" : {
             "young": "12 to 18",
             "elder": "20 to 25",

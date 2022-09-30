@@ -3,19 +3,17 @@ import { useEffect } from 'react';
 import { useState } from 'react';
 import EachExercise from '../EachExercise/EachExercise';
 import './Exercise.css'
-const Exercises = () => {
+const Exercises = (props) => {
+    const {setTime}  = props
    const [exercises, setExercises] = useState([])
-
+// console.log(props.setTime())
    useEffect(()=>{
     fetch('data.json')
     .then(res=>res.json())
     .then(data=>setExercises(data))
    },[])
    
-   const addToList = ()=>{
-    // const timeMin = time +time;
-    console.log('time')
-}
+  
 
     return (
         <div className='exercise'>
@@ -23,7 +21,7 @@ const Exercises = () => {
             {
                 
                 exercises.map(exercise=> 
-                <EachExercise key={exercise.id} exercise ={exercise} addToList={addToList}></EachExercise>
+                <EachExercise key={exercise.id} exercise ={exercise} setTime={setTime} ></EachExercise>
                 )
 
             }

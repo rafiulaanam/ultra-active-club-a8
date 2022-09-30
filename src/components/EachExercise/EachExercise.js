@@ -4,7 +4,8 @@ import Card from 'react-bootstrap/Card';
 import './EachExercise.css'
 
 
-const EachExercise = ({exercise,addToList}) => {
+
+const EachExercise = ({exercise,setTime}) => {
     const {name,discription,time,age,img} = exercise
   
   
@@ -19,7 +20,8 @@ const EachExercise = ({exercise,addToList}) => {
          <b> For Age: {age.young}</b> <br></br>
          <b> Time: {time}s</b>
         </Card.Text>
-        <Button variant="primary" onClick={addToList}>Add to List</Button>
+        <Button variant="primary" onClick={()=>setTime(time)} >Add to List</Button> 
+        
       </Card.Body>
     </Card>
         </div>

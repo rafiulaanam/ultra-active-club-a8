@@ -6,10 +6,17 @@ import "./SideProfie.css";
 import rafi from "../../image/rafi.jpg";
 import { useState } from "react";
 
-const SideProfile = () => {
+const SideProfile = (props) => {
  
   const [sec, setSec] = useState(0)
-console.log(sec)
+
+
+
+let newtime =0;
+for(const stime of props.time){
+  newtime = newtime + stime
+}
+
   return (
     <div className="flexProfile">
       <div>
@@ -70,7 +77,7 @@ console.log(sec)
          <span>Exercise Time</span>
         </div>
         <div>
-          200s
+          {newtime}s
         </div>
         
       </div>
