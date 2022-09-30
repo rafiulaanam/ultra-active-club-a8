@@ -1,6 +1,7 @@
-import React from 'react';
+
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
+
 import './EachExercise.css'
 
 
@@ -8,6 +9,9 @@ import './EachExercise.css'
 const EachExercise = ({exercise,setTime}) => {
     const {name,discription,time,age,img} = exercise
   
+
+    
+ 
   
     return (
         <div>

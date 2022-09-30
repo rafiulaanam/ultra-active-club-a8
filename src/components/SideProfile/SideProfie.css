@@ -1,8 +1,9 @@
 .flexProfile{
    /* text-align: center; */
    background-color: white;
-   width: 250px;
-   margin-left: 20px;
+   width: 290px;
+   margin-left: 40px;
+   margin-top: -500px;
    border-radius: 10px;
    /* height: 1500px; */
    padding-bottom: 100px;
@@ -43,7 +44,7 @@
     background-color: aliceblue;
     border-radius: 10px;
     margin-left: 20px;
-    width: 210px;
+    width: 250px;
     margin-top: 20px;
 }
 .info span{

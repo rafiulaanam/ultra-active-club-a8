@@ -1,16 +1,24 @@
 import React, { useState } from 'react';
+
+import { addToDb, getStoredTime } from '../../utilities/timedb';
 import Exercises from '../Exercises/Exercises';
 import SideProfile from '../SideProfile/SideProfile';
 import './Main.css'
 const Main = () => {
     
+
+
+
+
     const [time, setTime]= useState([])
-    const gym =(timee)=>{
+    const gym =(timee,id)=>{
         
       
       const newTime = [...time, timee ]
       setTime(newTime)
       
+      addToDb(id.id)
+     
     }
 
     return (

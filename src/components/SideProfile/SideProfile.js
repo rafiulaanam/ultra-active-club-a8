@@ -5,7 +5,7 @@ import {faLocationDot } from '@fortawesome/free-solid-svg-icons'
 import "./SideProfie.css";
 import rafi from "../../image/rafi.jpg";
 import { useState } from "react";
-
+import Toastco from "../Toast/Toastco";
 const SideProfile = (props) => {
  
   const [sec, setSec] = useState(0)
@@ -74,24 +74,24 @@ for(const stime of props.time){
 <h5>Exercise Details</h5>
 <div className="details">
         <div>
-         <span>Exercise Time</span>
+         <span><b>Exercise Time</b></span>
         </div>
         <div>
-          {newtime}s
+          {newtime} seconds
         </div>
         
       </div>
 <div className="details">
         <div>
-         <span>Break Time</span>
+         <span><b>Break Time</b></span>
         </div>
         <div>
-         {sec}s
+         {sec} seconds
         </div>
         
       </div>
 
-<Button className='activity-btn' variant="success">Activity Completed</Button>
+<Button className='activity-btn' variant="success" >Activity Completed</Button>
 
 
 
